@@ -2,7 +2,7 @@
 
 ## Purpose
 
-By utilizing nueral networks, an attempt was made to create a classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. The database contained information on over 34,000 organizations that have recieved funding from the charity. 
+By utilizing neural networks, an attempt was made to create a classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. The database contained information on over 34,000 organizations that have received funding from the charity. 
 
 ## Results 
 
